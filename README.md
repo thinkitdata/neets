@@ -7,7 +7,7 @@
 <a href="Mod03 - Circuit Protection Control and Measurement.pdf">Module 3</a> - Introduction to Circuit Protection, Control, and Measurement<br /> 
 <a href="Mod04 - Conductors Wiring and Schematic Reading.pdf">Module 4</a> - Introduction to Electrical Conductors, Wiring Techniques, and Schematic Reading<br /> 
 <a href="Mod05 - Generators and Motors.pdf">Module 5</a> - Introduction to Generators and Motors<br /> 
-<a href="Mod06 - Electronic Emission Tubes and Power Supplies.pdf">6</a> - Introduction to Electronic Emission, Tubes, and Power Supplies<br /> 
+<a href="Mod06 - Electronic Emission Tubes and Power Supplies.pdf">Module 6</a> - Introduction to Electronic Emission, Tubes, and Power Supplies<br /> 
 <a href="Mod07 - Solid-State Devices and Power Supplies.pdf">Module 7</a> - Introduction to Solid-State Devices and Power Supplies<br /> <a href="Mod08 - Amplifiers.pdf">Module 8</a> - Introduction to Amplifiers<br /> 
 <a href="Mod09 - Wave-Generation and Wave-Shapping Circuits.pdf">Module 9</a> - Introduction to Wave-Generation and Wave-Shaping Circuits<br /> 
 <a href="Mod10 - Wave Propagation Transmission Lines and Antennas.pdf">Module 10</a> - Introduction to Wave Propagation, Transmission Lines, and Antennas<br /> 
