@@ -25,3 +25,15 @@
 <a href="Mod22 - Digital Computers.pdf">Module 22</a> - Introduction to Digital Computers<br /> 
 <a href="Mod23 - Magnetic Recording.pdf">Module 23</a> - Magnetic Recording<br /> 
 <a href="Mod24 - Fiber Optics.pdf">Module 24</a> - Introduction to Fiber Optics</p>
+
+<p>
+<a href="/ETvols/ET Volume 1 - Safety.pdf">ET Volume 1 - Safety </a><br /> 
+<a href="/ETvols/ET Volume 2 - Administration.pdf">ET Volume 2 - Administration </a><br /> 
+<a href="/ETvols/ET Volume 3 - Communications Systems.pdf">ET Volume 3 - Communications Systems </a><br /> 
+<a href="/ETvols/ET Volume 4 - Radar Systems.pdf">ET Volume 4 - Radar Systems </a><br /> 
+<a href="/ETvols/ET Volume 5 - Navigation Systems.pdf">ET Volume 5 - Navigation Systems </a><br /> 
+<a href="/ETvols/ET Volume 6 - Digital Data Systems.pdf">ET Volume 6 - Digital Data System</a><br />
+<a href="/ETvols/ET Volume 7 - Antennas and Wave Propagation.pdf">ET Volume 7 - Antennas and Wave Propagation</a><br />
+<a href="/ETvols/ET Volume 8 - Support Systems.pdf">ET Volume 8 - Support Systems</a><br />
+  
+<a href="NSTM ch320 Electric Power Distribution Systems.pdf">Naval Ships Technical Manual Ch.320 Electrical Power Distributions Systems</a>
