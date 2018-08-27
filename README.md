@@ -1,7 +1,7 @@
 # Navy Electricity & Electronics Training Series
 
 ![NEETS](https://github.com/thinkitdata/neets/blob/master/neets.png)
-## Modules 1 - 24 are basically the text books of the US Navy's Advanced Electronics training curriculum
+## Modules 1 - 24 are the text books of the US Navy's Advanced Electronics training curriculum
 <a href="Mod01 - Matter Energy and DC.pdf">Module 1</a> - Introduction to Matter, Energy, and Direct Current
 <br><a href="Mod02 - AC and Transformers.pdf">Module 2</a> -&nbsp;Introduction to Alternating Current and Transformers<br /> 
 <a href="Mod03 - Circuit Protection Control and Measurement.pdf">Module 3</a> - Introduction to Circuit Protection, Control, and Measurement<br /> 
@@ -25,7 +25,7 @@
 <a href="Mod22 - Digital Computers.pdf">Module 22</a> - Introduction to Digital Computers<br /> 
 <a href="Mod23 - Magnetic Recording.pdf">Module 23</a> - Magnetic Recording<br /> 
 <a href="Mod24 - Fiber Optics.pdf">Module 24</a> - Introduction to Fiber Optics</p>
-## Electronics Technician Volumes 1 - 6 are basically the text books for advancement once you've become an Electronics Technician
+## Electronics Technician Volumes 1 - 6 are the text books for advancement once you've completed the Electronics Technician training program
 <a href="/ETvols/ET Volume 1 - Safety.pdf">ET Volume 1 - Safety </a><br /> 
 <a href="/ETvols/ET Volume 2 - Administration.pdf">ET Volume 2 - Administration </a><br /> 
 <a href="/ETvols/ET Volume 3 - Communications Systems.pdf">ET Volume 3 - Communications Systems </a><br /> 
