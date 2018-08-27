@@ -2,8 +2,8 @@
 
 ![NEETS](https://github.com/thinkitdata/neets/blob/master/neets.png)
 ## Modules 1 - 24 are basically the text books of the US Navy's Advanced Electronics training curriculum
-<a href="Mod01 - Matter Energy and DC.pdf">Module 1</a> - Introduction to Matter, Energy, and Direct Current<br /> 
-<a href="Mod02 - AC and Transformers.pdf">Module 2</a> -&nbsp;Introduction to Alternating Current and Transformers<br /> 
+<a href="Mod01 - Matter Energy and DC.pdf">Module 1</a> - Introduction to Matter, Energy, and Direct Current
+<br><a href="Mod02 - AC and Transformers.pdf">Module 2</a> -&nbsp;Introduction to Alternating Current and Transformers<br /> 
 <a href="Mod03 - Circuit Protection Control and Measurement.pdf">Module 3</a> - Introduction to Circuit Protection, Control, and Measurement<br /> 
 <a href="Mod04 - Conductors Wiring and Schematic Reading.pdf">Module 4</a> - Introduction to Electrical Conductors, Wiring Techniques, and Schematic Reading<br /> 
 <a href="Mod05 - Generators and Motors.pdf">Module 5</a> - Introduction to Generators and Motors<br /> 
@@ -34,6 +34,5 @@
 <a href="/ETvols/ET Volume 6 - Digital Data Systems.pdf">ET Volume 6 - Digital Data System</a><br />
 <a href="/ETvols/ET Volume 7 - Antennas and Wave Propagation.pdf">ET Volume 7 - Antennas and Wave Propagation</a><br />
 <a href="/ETvols/ET Volume 8 - Support Systems.pdf">ET Volume 8 - Support Systems</a><br />
- 
 ## Naval Ships Technical Manual Ch. 320 Electrical Power Distribution Systems
 <a href="/ETvols/NSTM ch320 Electric Power Distribution Systems.pdf">Naval Ships Technical Manual Ch.320 Electrical Power Distributions Systems</a>
