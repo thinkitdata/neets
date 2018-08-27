@@ -1,15 +1,12 @@
-# Navy Electrical & Electronics Training Series
+# Navy Electricity & Electronics Training Series
 
 ![NEETS](https://github.com/thinkitdata/neets/blob/master/neets.png)
-
-<a href="Mod01 - Matter Energy and DC.pdf">Module 1</a> - Introduction to Matter, Energy, and Direct Current<br />
 
 <a href="Mod01 - Matter Energy and DC.pdf">Module 1</a> - Introduction to Matter, Energy, and Direct Current<br /> 
 <a href="Mod02 - AC and Transformers.pdf">Module 2</a> -&nbsp;Introduction to Alternating Current and Transformers<br /> 
 <a href="Mod03 - Circuit Protection Control and Measurement.pdf">Module 3</a> - Introduction to Circuit Protection, Control, and Measurement<br /> 
 <a href="Mod04 - Conductors Wiring and Schematic Reading.pdf">Module 4</a> - Introduction to Electrical Conductors, Wiring Techniques, and Schematic Reading<br /> 
 <a href="Mod05 - Generators and Motors.pdf">Module 5</a> - Introduction to Generators and Motors<br /> 
-<a href="http://jacquesricher.com/NEETS/14178.pdf">Module </a>
 <a href="Mod06 - Electronic Emission Tubes and Power Supplies.pdf">6</a> - Introduction to Electronic Emission, Tubes, and Power Supplies<br /> 
 <a href="Mod07 - Solid-State Devices and Power Supplies.pdf">Module 7</a> - Introduction to Solid-State Devices and Power Supplies<br /> <a href="Mod08 - Amplifiers.pdf">Module 8</a> - Introduction to Amplifiers<br /> 
 <a href="Mod09 - Wave-Generation and Wave-Shapping Circuits.pdf">Module 9</a> - Introduction to Wave-Generation and Wave-Shaping Circuits<br /> 
