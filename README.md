@@ -34,5 +34,6 @@
 <a href="/ETvols/ET Volume 6 - Digital Data Systems.pdf">ET Volume 6 - Digital Data System</a><br />
 <a href="/ETvols/ET Volume 7 - Antennas and Wave Propagation.pdf">ET Volume 7 - Antennas and Wave Propagation</a><br />
 <a href="/ETvols/ET Volume 8 - Support Systems.pdf">ET Volume 8 - Support Systems</a><br />
-  
-<a href="NSTM ch320 Electric Power Distribution Systems.pdf">Naval Ships Technical Manual Ch.320 Electrical Power Distributions Systems</a>
+ 
+## Naval Ships Technical Manual Ch. 320 Electrical Power Distribution Systems
+<a href="/ETvols/NSTM ch320 Electric Power Distribution Systems.pdf">Naval Ships Technical Manual Ch.320 Electrical Power Distributions Systems</a>
