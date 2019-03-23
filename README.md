@@ -1,5 +1,7 @@
 # Navy Electricity & Electronics Training Series
-![] (https://github.com/thinkitdata/neets/blob/master/neets.png)
+
+![NEETs](https://github.com/thinkitdata/neets/blob/master/neets.png)
+
 ## Modules 1 - 24 are the text books of the US Navy's Advanced Electronics training curriculum
 <a href="/modules/Mod01 - Matter Energy and DC.pdf">Module 1</a> - Introduction to Matter, Energy, and Direct Current
 <br><a href="/modules/Mod02 - AC and Transformers.pdf">Module 2</a> -&nbsp;Introduction to Alternating Current and Transformers<br /> 
