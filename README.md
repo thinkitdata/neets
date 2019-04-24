@@ -35,15 +35,15 @@
 <a href="/ETvols/ET Volume 6 - Digital Data Systems.pdf">ET Volume 6 - Digital Data System</a><br />
 <a href="/ETvols/ET Volume 7 - Antennas and Wave Propagation.pdf">ET Volume 7 - Antennas and Wave Propagation</a><br />
 <a href="/ETvols/ET Volume 8 - Support Systems.pdf">ET Volume 8 - Support Systems</a><br />
-## Naval Ships Technical Manual Ch. 320 Electrical Power Distribution Systems
+## Naval Ships Electrical Power Distribution Systems
 <a href="/ETvols/NSTM ch320 Electric Power Distribution Systems.pdf">Naval Ships Technical Manual Ch.320 Electrical Power Distributions Systems</a>
 
 # Naval Fleet SatComm overview
 
 ![NEETs](https://github.com/thinkitdata/neets/blob/master/FleetSatComm.jpg)
 
-<a href="https://github.com/thinkitdata/neets/blob/master/PX10431C_AN_UYK-20_Technical_Description_Nov76.pdf"> AN UYK-20 Technical Description </a>
+<a href="https://github.com/thinkitdata/neets/blob/master/PX10431C_AN_UYK-20_Technical_Description_Nov76.pdf">AN UYK-20 Technical Description</a> The Sperry Univac mini-computer used with the original NAVMACS systems
 
 ## Commercial Satellite Communications
-<<a href="https://github.com/thinkitdata/neets/blob/master/es-hbook.pdf">Intelsat Earth Station Handbook</a>
+<a href="https://github.com/thinkitdata/neets/blob/master/es-hbook.pdf">Intelsat Earth Station Handbook</a>
 
