@@ -44,3 +44,6 @@
 
 <a href="https://github.com/thinkitdata/neets/blob/master/PX10431C_AN_UYK-20_Technical_Description_Nov76.pdf"> AN UYK-20 Technical Description </a>
 
+## Commercial Satellite Communications
+<<a href="https://github.com/thinkitdata/neets/blob/master/es-hbook.pdf">Intelsat Earth Station Handbook</a>
+
