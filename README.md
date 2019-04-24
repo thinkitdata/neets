@@ -44,7 +44,7 @@
 <a href="https://github.com/thinkitdata/neets/blob/master/PX10431C_AN_UYK-20_Technical_Description_Nov76.pdf">AN UYK-20 Technical Description</a> The Sperry Univac mini-computer used with the original NAVMACS systems
 
 ## Commercial Satellite Communications
-![NEETs](https://github.com/thinkitdata/blob/master/Clarks TTCM Earth Station.jpg)
+![NEETs](https://github.com/thinkitdata/neets/blob/master/Clarks%20TTCM%20Earth%20Station.jpg)
 
 <a href="https://github.com/thinkitdata/neets/blob/master/es-hbook.pdf">Intelsat Earth Station Handbook</a><br />
 <a href="https://github.com/thinkitdata/neets/blob/master/ITU mobile satcom hbook.pdf">ITU Handbook Mobile-satellite services</a><br />
