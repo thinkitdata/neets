@@ -45,5 +45,9 @@
 
 ## Commercial Satellite Communications
 <a href="https://github.com/thinkitdata/neets/blob/master/es-hbook.pdf">Intelsat Earth Station Handbook</a><br />
-<a href="https://github.com/thinkitdata/neets/blob/master/ITU mobile satcom hbook.pdf">ITU Handbook Mobile-satellite services</a>
+<a href="https://github.com/thinkitdata/neets/blob/master/ITU mobile satcom hbook.pdf">ITU Handbook Mobile-satellite services</a><br />
+<a href="/satcomm/fundamentals_satellite_communication_part-1.pdf">Fundamentals of Satellite Communications pt.1</a><br />
+<a href="/satcomm/fundamentals_satellite_communication_part-2.pdf">Fundamentals of Satellite Communications pt.2</a><br />
+<a href="/satcomm/fundamentals_satellite_communication_part-3.pdf">Fundamentals of Satellite Communications pt.3</a><br />
+<a href="/satcomm/fundamentals_satellite_communication_part-4.pdf">Fundamentals of Satellite Communications pt.4</a><br />
 
